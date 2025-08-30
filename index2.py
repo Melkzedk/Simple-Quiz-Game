@@ -36,3 +36,4 @@ for q in questions:
         print(f"❌ Wrong! The correct answer is {q['answer'].title()}\n")
 
 print(f"Your final score is {score}/{len(questions)} 🎉")
+# Simple Quiz Game with Multiple Choice Options
