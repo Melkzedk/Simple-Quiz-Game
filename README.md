@@ -1,7 +1,3 @@
-Melkzedk: write a readme for this repository
-
-Workspace: Collecting workspace information# Simple Quiz Game
-
 This repository contains a simple command-line quiz game written in Python. The game presents multiple-choice questions to the user, shuffles the answer options, and keeps track of the user's score.
 
 ## Features
